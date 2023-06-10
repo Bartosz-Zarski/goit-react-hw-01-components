@@ -5,7 +5,9 @@
 }
 
 .app {
-    background-color: rgb(224, 222, 222);
+    background-color: rgb(224, 235, 233);
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }

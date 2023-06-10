@@ -10,7 +10,7 @@ export const App = () => {
   return (
     <div className="app">
       <Profile user={user} />
-      {/* <Statistics stats={stats} /> */}
+      <Statistics stats={stats} />
     </div>
   );
 };
